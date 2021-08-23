@@ -1,3 +1,4 @@
-import backup
+from backup import BackupSql
 
-backup.excute(1, unit="d")
+backup_sql = BackupSql()
+backup_sql.excute(unit="d")

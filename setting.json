@@ -1,0 +1,6 @@
+{
+  "BASE_DIR": "파일 저장할 루트 경로",
+  "DATABASE_NAME": "데이터 베이스 이름",
+  "ACCOUNT_ID": "데이터 베이스 계정",
+  "ACCOUNT_PW": "데이터 베이스 계정 비밀번호"
+}
